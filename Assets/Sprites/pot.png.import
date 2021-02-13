@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/allSprites_default.png-c4901722e8546c57d038298310f7faff.stex"
+path="res://.import/pot.png-da7e9a900c06215dfaf9cdadbf188bb9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Spritesheet/allSprites_default.png"
-dest_files=[ "res://.import/allSprites_default.png-c4901722e8546c57d038298310f7faff.stex" ]
+source_file="res://Assets/Sprites/pot.png"
+dest_files=[ "res://.import/pot.png-da7e9a900c06215dfaf9cdadbf188bb9.stex" ]
 
 [params]
 
@@ -20,7 +20,7 @@ compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
-flags/filter=false
+flags/filter=true
 flags/mipmaps=false
 flags/anisotropic=false
 flags/srgb=2
